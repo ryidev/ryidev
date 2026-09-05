@@ -16,17 +16,19 @@ Frontend-focused Developer & Informatics Student passionate about building seaml
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ryidev&show_icons=true&theme=dark&hide_border=true" alt="Satria's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ryidev&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryidev&theme=dark&hide_border=true" alt="Satria's GitHub Streak" />
 </p>
 
 ---
 
-### 📫 Connect with Me
+### ⚡ Quick Overview
 
-- **Instagram:** [@ryidev.sre](https://instagram.com/ryidev.sre)
-- **Email:** satriaridho4355@gmail.com
+| Detail | Info |
+| :--- | :--- |
+| 🎓 **Education** | Informatics Student @ University of Technology Yogyakarta |
+| 💼 **Role** | Frontend Web & Mobile Developer |
+| 💡 **Interests** | Web Engineering, UI/UX Design & Blockchain |
+| 🌐 **Social** | [Instagram](https://instagram.com/ryidev.sre) • [Email](mailto:satriaridho4355@gmail.com) |
