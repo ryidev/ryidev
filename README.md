@@ -1,4 +1,4 @@
-# Hi there, I'm Satria 👋
+# Hi there, I'm Satria Ridho Eksobar 👋
 
 Frontend-focused Developer & Informatics Student passionate about building seamless web and mobile experiences.
 
