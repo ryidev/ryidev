@@ -4,7 +4,7 @@ Frontend-focused Developer & Informatics Student passionate about building seaml
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 | Category | Technologies |
 | :--- | :--- |
@@ -16,15 +16,7 @@ Frontend-focused Developer & Informatics Student passionate about building seaml
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryidev&theme=dark&hide_border=true" alt="Satria's GitHub Streak" />
-</p>
-
----
-
-### ⚡ Quick Overview
+### Quick Overview
 
 | Detail | Info |
 | :--- | :--- |
